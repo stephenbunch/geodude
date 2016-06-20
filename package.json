@@ -1,0 +1,26 @@
+{
+  "name": "geodude",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist",
+  "scripts": {
+    "prepublish": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephenbunch/geodude"
+  },
+  "author": "Stephen Bunch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephenbunch/geodude/issues"
+  },
+  "homepage": "https://github.com/stephenbunch/geodude",
+  "devDependencies": {
+    "arceus": "^0.5.4",
+    "babel-polyfill": "^6.9.1",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "gulp": "^3.9.1"
+  }
+}
